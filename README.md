@@ -1,5 +1,7 @@
 # VisitTheWorldHomeEdition
 
+![alt text](https://1.bp.blogspot.com/-7vvzF_AYlBc/YSatIkF0ppI/AAAAAAAIwSk/5ulKUBjyITAzjzqwF8vJZWX2eum8YJrdwCLcBGAsYHQ/w640-h514/2021-08-25%2B22_49_33-GSoC%2B2021%2B-%2BAinhoa%2BMaestro%2B-%2BVisit%2Bthe%2Bworld%2BHome%2Bedition%2B-%2BDocumentos%2Bde%2BGoogle.png)
+
 The objective of the Visit the World Home edition project is to facilitate access to Liquid Galaxy or a private TV via voice commands, using an independent platform running on a Raspberry Pi4.
 
 The user in this case is intended for the elderly, and can use the platform to send KML to a normal Liquid Galaxy installation connected to the same network, or use this device connected to their TV through an HDMI cable, as a system independent.
