@@ -1,0 +1,18 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"00100100864";"";
+"MATERIAL";"PA66 (Poliamida 66)";"";
+"SUPPLIER";"ISC Plastic Parts";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-18022019-029260";"";
+"h";"1,70";"";
+"DESIGN";"TORNILLO ROSCA METRICA AVELLANADO PHILLIPS | M3x6";"";
+"TraceParts.InstanceId";"90-18022019-029260DETKYOPQQMSLFD1M7ZZMYV19X";"";
+"TraceParts.PartTitle";"TORNILLO ROSCA METRICA AVELLANADO PHILLIPS - MTCAP";"";
+"l";"6,00";"";
+"TraceParts.PartLanguage";"es";"";
+"metric";"M3x0,50";"";
+"a";"5,75";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ISC_789232005:90-18022019-029260";"";
